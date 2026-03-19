@@ -3,10 +3,10 @@
 Aluno; Ruan Pedro Bertolino Batista 
 ---
 ## Questão 1
-Resposta: 
+Resposta: b) Public 
 ## Questão 2
-Resposta:
+Resposta: e) char 
 ## Questão 3
-Resposta:
+Resposta: a) 2 
 ## Questão 4
-Resposta:
+Resposta: c) 12
